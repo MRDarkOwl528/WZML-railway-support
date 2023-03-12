@@ -1,0 +1,7 @@
+{
+  "name": "Pyrogram Sample",
+  "description": "A barebones Python app using Pyrogram",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["Python", "pyrogram", "py"]
+}
